@@ -6,16 +6,15 @@ I'm a **Senior Backend Developer** based in Bangalore, specializing in building 
 
 - **Programming Languages:** Python, Java, Node.js, TypeScript, Rust
 - **Frameworks & Libraries:** Microservices, Django, Express.js, LangChain
-- **Databases & Tools:** MySQL, Git, Kafka, Apache Iceberg
-- **Cloud & Technologies:** AWS, Cloud Computing, RAG, Generative AI
-- **Specializations:** AI/ML technologies, Retrieval-Augmented Generation (RAG), Data Engineering, Blockchain 
+- **Cloud & Technologies:** AWS, Cloud Computing, RAG, GenAI
+- **Specializations:** AI/ML technologies, Retrieval-Augmented Generation (RAG), Data Engineering 
 
 ## 🌟 Achievements
 - **Oracle Certified Associate Java Programmer (OCAJP)**
 
 ## 🎓 Education
-- **Scaler Neovarsity(constituent member college of Woolf,Europe)** (2024) - Master of Science in Computer Science 
-- **BLDEA's CET** (2016) - BE in Computer Science
+- **Scaler Neovarsity(constituent member college of Woolf,Europe)** - Master of Science in Computer Science 
+- **BLDEA's CET** - BE in Computer Science
 
 ## 📫 Get in Touch
 - **Email:** [mrutunjay.kinagi@gmail.com](mailto:mrutunjay.kinagi@gmail.com)
