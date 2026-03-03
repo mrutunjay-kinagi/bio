@@ -1,6 +1,6 @@
 # 👋 I'm Mrutunjay Kinagi
 
-**Senior AI Architect & Distributed Systems Engineer**
+**Senior AI Product Engineer & Distributed Systems Engineer**
 *Hardening the Agentic AI ecosystem and building the infrastructure that powers LLMs at scale.*
 
 I am a **Builder-Owner** with 9+ years of experience specializing in the "Last Mile" of AI—taking complex agentic concepts and turning them into stable, production-grade systems.
