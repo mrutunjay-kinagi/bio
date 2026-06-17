@@ -3,7 +3,7 @@
 **Senior AI Product Engineer & Distributed Systems Engineer**
 *Hardening the Agentic AI ecosystem and building the infrastructure that powers LLMs at scale.*
 
-I am a **Builder-Owner** with 9+ years of experience specializing in the "Last Mile" of AI—taking complex agentic concepts and turning them into stable, production-grade systems.
+I am a **Builder-Owner** with 9.5+ years of experience specializing in the "Last Mile" of AI—taking complex agentic concepts and turning them into stable, production-grade systems.
 
 ## 🛠️ Open Source & Contributions
 *I believe in hardening the tools I use. My recent work focuses on stability, orchestration, and data integrity.*
@@ -29,4 +29,9 @@ I am a **Builder-Owner** with 9+ years of experience specializing in the "Last M
 - **LinkedIn:** [mrutunjay-kinagi](https://www.linkedin.com/in/mrutunjay-kinagi-6142ba131/)
 - **Email:** [mrutunjay.kinagi@gmail.com](mailto:mrutunjay.kinagi@gmail.com)
 
+## Writing
+
+- [Your RAG Pipeline Isn't Slow. It's Over-Sharded.](https://medium.com/@mrutunjay.kinagi/your-rag-pipeline-isnt-slow-it-s-over-sharded-fd9819a89955)
+- [Fixing the Hidden Bottleneck in Complex P&C Claims](https://doclens.ai/fixing-the-hidden-bottleneck-in-complex-pc-claims/)
+  
 *"I don't just build with AI; I build the tools that make AI work in the real world."*
